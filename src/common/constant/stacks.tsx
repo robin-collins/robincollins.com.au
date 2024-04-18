@@ -36,8 +36,6 @@ import {
   SiLinux,
   SiWindows,
   SiMacos,
-
-
 } from 'react-icons/si';
 
 export type stacksProps = {

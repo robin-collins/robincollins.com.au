@@ -3,6 +3,7 @@
 Thid project is a modified version of [aulianza/aulianza.id](https://github.com/aulianza/aulianza.id)
 
 🔥 Personal website was built originally from scratch using Next.js, TypeScript, Tailwind CSS, SWR, Firebase and Prisma with PostgreSQL
+
 <div align="center">
   <p></p>
 
@@ -90,7 +91,7 @@ The data projects on this blog are taken from the PostgreSQL database connected 
 
 - ### PageSpeed Insights
 
-Report URL: https://pagespeed.web.dev/analysis/https-robin-collins-id/pk0y6xcz25?form_factor=desktop
+[Report URL:](https://pagespeed.web.dev/analysis/https-robin-collins-id/pk0y6xcz25?form_factor=desktop)
 
 ![image](https://github.com/robin-collins/robincollins.com.au/assets/15605885/d87a6083-caf3-4b84-ba59-975c07193a9f)
 
@@ -105,7 +106,7 @@ Report URL: [https://pagespeed.web.dev/analysis/https-robin-collins-id/pk0y6xcz2
 
 If you are interested in running this project on your local machine, you can do so in just 3 easy steps below. Additionally, remember to update the ".env.example" file to ".env" and replace the variables with your own in the ".env" file.
 
-### 1. Clone this template using one of the three ways:
+### 1. Clone this template using one of the three ways
 
 1. Clone using git
 
@@ -142,7 +143,7 @@ yarn install
 
 This repository uses several environment variables. Please copy .env.example into .env, then fill in the values with your own. For third-party environment variables such as Spotify, Wakatime, Firebase, and others, please refer to the official documentation provided by each provider.
 
-```
+```env
 BUNDLE_ANALYZER=false
 SITE_URL=https://robincollins.com.au
 

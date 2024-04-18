@@ -86,7 +86,6 @@ export const MENU_ITEMS: MenuItemProps[] = [
     eventName: 'Pages: Chat',
     type: 'Pages',
   },
-
 ];
 
 export const SOCIAL_MEDIA: MenuItemProps[] = [

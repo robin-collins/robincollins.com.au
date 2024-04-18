@@ -129,7 +129,9 @@ const CommandPalette = () => {
 
   const handleFindGoogle = () => {
     const url =
-      'https://www.google.com/search?q=' + queryDebounce + '&ref=robincollins.com.au';
+      'https://www.google.com/search?q=' +
+      queryDebounce +
+      '&ref=robincollins.com.au';
     window.open(url, '_blank');
   };
 

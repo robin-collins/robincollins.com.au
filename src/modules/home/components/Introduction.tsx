@@ -17,10 +17,12 @@ const Introduction = () => {
       </div>
 
       <p className='mt-6 leading-[1.8] text-neutral-800 dark:text-neutral-300 md:leading-loose'>
-      Experienced IT Professional in AI, Machine Learning, and Cyber Security with a zeal for automation. 
-      Skilled in a variety of tech languages and platforms, I excel at demystifying complex concepts and 
-      aligning tech solutions with business goals. My approach ensures that every stakeholder grasps the 
-      finer details and the big picture, driving collaboration and innovation.
+        Experienced IT Professional in AI, Machine Learning, and Cyber Security
+        with a zeal for automation. Skilled in a variety of tech languages and
+        platforms, I excel at demystifying complex concepts and aligning tech
+        solutions with business goals. My approach ensures that every
+        stakeholder grasps the finer details and the big picture, driving
+        collaboration and innovation.
       </p>
     </section>
   );

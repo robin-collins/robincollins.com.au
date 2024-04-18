@@ -11,10 +11,11 @@ const Services = () => {
       <div className='space-y-3'>
         <SectionHeading title="What I've been working on" />
         <p className='leading-[1.8] text-neutral-800 dark:text-neutral-300 md:leading-loose'>
-          I empower brands, companies, institutions, and startups to enhance their 
-          operations and customer engagement through strategic AI and automation solutions. 
-          My services are designed to create exceptional digital experiences that streamline 
-          processes and drive business innovation.
+          I empower brands, companies, institutions, and startups to enhance
+          their operations and customer engagement through strategic AI and
+          automation solutions. My services are designed to create exceptional
+          digital experiences that streamline processes and drive business
+          innovation.
         </p>
       </div>
       <Card className='space-y-4 rounded-xl border bg-neutral-100 p-8 dark:border-none dark:bg-[#1e1e1e]'>
